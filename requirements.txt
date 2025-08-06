@@ -1,0 +1,10 @@
+# Caesar Cipher Project Requirements
+# This project uses only Python standard library functions
+# No external dependencies required
+
+# Python version requirement
+# python>=3.6
+
+# For development/testing (optional)
+# pytest>=6.0.0  # For advanced testing
+# black>=21.0.0  # For code formatting
